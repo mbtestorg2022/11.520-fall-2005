@@ -4,28 +4,313 @@ title: Calendar
 uid: b646616d-91a4-8cbb-d8ce-753291e31811
 ---
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| Lec 1 | Introduction to the Class and GIS  {{< br >}}  {{< br >}}GIS Principles and Methods  {{< br >}}  {{< br >}}WinAthena Introduction (Required for Students who did not do CRN Computing Orientation) |  |
-| Lab 1 | ArcGIS Basics (Introduction to ArcGIS, Paper Output) |  |
-| Lec 2 | GIS Principles and Methods |  |
-| Lab 2 | Thematic Mapping in ArcMap (Symbolization, Exploratory vs. Explanatory Mapping) | Homework set 1 assigned |
-| Lec 3 | Database Fundamentals (Relational Basics, Queries, Joins), Coordinate Systems, and Projections | Lab exercise 1 due |
-| Lab 3 | Database Operations in ArcGIS (Spatial Selection, Query Selection, Tabular Joins, Spatial Joins) | Lab exercise 2 due |
-| Lec 4 | More on Database Management: Introduction to SQL  {{< br >}}  {{< br >}}Geodatabase  {{< br >}}  {{< br >}}Handling One-to-Many Relationships |  |
-| Lab 4 | Database Aggregation, SQL, and Charts | Lab exercise 3 due |
-| Lec 5 | Creating and Maintaining Geospatial Databases | Homework set 1 due  {{< br >}}  {{< br >}}Homework set 2 assigned |
-| Lec 6 | Making Sense of the Census | Lab exercise 4 due |
-| Lab 5 | Obtaining and Using U.S. Census Data in ArcGIS |  |
-| Lec 7 | Spatial Analysis I (Vector-based Methods) |  |
-| Lab 6 | Vector Spatial Analysis (Buffers, Polygon Overlay, Area Allocation, Using ArcTools) | Lab exercise 5 due |
-| Lec 8 | Spatial Data Models and Spatial Analysis II (Raster, Network) | Homework set 3 assigned |
-| Lab 7 | Raster Spatial Analysis (Interpolation, Raster Operations, Spatial Analyst) | Lab exercise 6 due |
-| Lec 9 | Geocoding and Network Analysis Methods | Homework set 2 (question 1) due |
-| Lab 8 | Address Matching and Geocoding | Homework set 2 (question 2) due  {{< br >}}  {{< br >}}Lab exercise 7 due |
-| Lec 10 | Introduction to Internet GIS | Project proposal due |
-| Lab 9 | ArcIMS (Optional) |  |
-| Lec 11 | Project Work | Homework set 3 due |
-| Lec 12 | Test (In-class, Open-book) |  |
-| Lec 13-17 | Project Work | Lab exercise 8 due in Lec 13  {{< br >}}  {{< br >}}Project title and abstract due in Lec 15 |
-| Lec 18-19 | Brief Project Presentations | Brief project presentations due in Lec 18  {{< br >}}  {{< br >}}Project write-up due in Lec 19
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Class and GIS  
+  
+GIS Principles and Methods  
+  
+WinAthena Introduction (Required for Students who did not do CRN Computing Orientation)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 1
+{{< tdclose >}}
+{{< tdopen >}}
+ArcGIS Basics (Introduction to ArcGIS, Paper Output)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 2
+{{< tdclose >}}
+{{< tdopen >}}
+GIS Principles and Methods
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 2
+{{< tdclose >}}
+{{< tdopen >}}
+Thematic Mapping in ArcMap (Symbolization, Exploratory vs. Explanatory Mapping)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 1 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 3
+{{< tdclose >}}
+{{< tdopen >}}
+Database Fundamentals (Relational Basics, Queries, Joins), Coordinate Systems, and Projections
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 3
+{{< tdclose >}}
+{{< tdopen >}}
+Database Operations in ArcGIS (Spatial Selection, Query Selection, Tabular Joins, Spatial Joins)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 4
+{{< tdclose >}}
+{{< tdopen >}}
+More on Database Management: Introduction to SQL  
+  
+Geodatabase  
+  
+Handling One-to-Many Relationships
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 4
+{{< tdclose >}}
+{{< tdopen >}}
+Database Aggregation, SQL, and Charts
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 5
+{{< tdclose >}}
+{{< tdopen >}}
+Creating and Maintaining Geospatial Databases
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 1 due  
+  
+Homework set 2 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 6
+{{< tdclose >}}
+{{< tdopen >}}
+Making Sense of the Census
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 5
+{{< tdclose >}}
+{{< tdopen >}}
+Obtaining and Using U.S. Census Data in ArcGIS
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 7
+{{< tdclose >}}
+{{< tdopen >}}
+Spatial Analysis I (Vector-based Methods)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 6
+{{< tdclose >}}
+{{< tdopen >}}
+Vector Spatial Analysis (Buffers, Polygon Overlay, Area Allocation, Using ArcTools)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 8
+{{< tdclose >}}
+{{< tdopen >}}
+Spatial Data Models and Spatial Analysis II (Raster, Network)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 3 assigned
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 7
+{{< tdclose >}}
+{{< tdopen >}}
+Raster Spatial Analysis (Interpolation, Raster Operations, Spatial Analyst)
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 9
+{{< tdclose >}}
+{{< tdopen >}}
+Geocoding and Network Analysis Methods
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 2 (question 1) due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 8
+{{< tdclose >}}
+{{< tdopen >}}
+Address Matching and Geocoding
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 2 (question 2) due  
+  
+Lab exercise 7 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 10
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Internet GIS
+{{< tdclose >}}
+{{< tdopen >}}
+Project proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lab 9
+{{< tdclose >}}
+{{< tdopen >}}
+ArcIMS (Optional)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 11
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+Homework set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 12
+{{< tdclose >}}
+{{< tdopen >}}
+Test (In-class, Open-book)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 13-17
+{{< tdclose >}}
+{{< tdopen >}}
+Project Work
+{{< tdclose >}}
+{{< tdopen >}}
+Lab exercise 8 due in Lec 13  
+  
+Project title and abstract due in Lec 15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lec 18-19
+{{< tdclose >}}
+{{< tdopen >}}
+Brief Project Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Brief project presentations due in Lec 18  
+  
+Project write-up due in Lec 19
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
