@@ -4,6 +4,7 @@ description: This resource discusses the administrative, test comments, Terrain 
   and 3-dimensional visualization, and course wrapup.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/5f969adf7fa17588f044bfdbafeb8e18_lect_15.pdf
 file_type: application/pdf
+parent_uid: 088ab0bf-cc60-0329-9e0b-17dd33ae2d07
 resourcetype: Document
 title: lect_15.pdf
 uid: 5f969adf-7fa1-7588-f044-bfdbafeb8e18

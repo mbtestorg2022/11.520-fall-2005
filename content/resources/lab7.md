@@ -4,6 +4,7 @@ description: This resource discusses the lab exercise based on raster spatial an
   (interpolation, raster operations, spatial analyst).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/93c1a9f03e93c42ec787c2ef290005cf_lab7.pdf
 file_type: application/pdf
+parent_uid: 2c320811-a808-516d-d362-87b899df38ba
 resourcetype: Document
 title: lab7.pdf
 uid: 93c1a9f0-3e93-c42e-c787-c2ef290005cf

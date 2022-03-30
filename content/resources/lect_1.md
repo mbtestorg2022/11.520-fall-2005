@@ -5,6 +5,7 @@ description: This resource discusses the overview of course, GIS principles, geo
   cambridge home sales and household income).
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/49c874ddaf14c120aec8bb749f1fec70_lect_1.pdf
 file_type: application/pdf
+parent_uid: 088ab0bf-cc60-0329-9e0b-17dd33ae2d07
 resourcetype: Document
 title: lect_1.pdf
 uid: 49c874dd-af14-c120-aec8-bb749f1fec70

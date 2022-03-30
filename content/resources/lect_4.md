@@ -8,6 +8,7 @@ description: This resource discusses the GIS data models, CAD data models, compu
   from lab exercises.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-520-a-workshop-on-geographic-information-systems-fall-2005/b66c9045553df5c1032bf76dc4c0bbdb_lect_4.pdf
 file_type: application/pdf
+parent_uid: 088ab0bf-cc60-0329-9e0b-17dd33ae2d07
 resourcetype: Document
 title: lect_4.pdf
 uid: b66c9045-553d-f5c1-032b-f76dc4c0bbdb
